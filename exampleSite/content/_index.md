@@ -6,6 +6,7 @@ header: |-
 
     [_Get in touch_](#contact) [**Why this is awesome**](#more)
 ---
+---
 # A minimalist stylesheet for HTML elements
 
 **No class names, no frameworks,** just _semantic_ HTML and <mark>you're done</mark>.
