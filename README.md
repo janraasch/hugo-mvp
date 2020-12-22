@@ -1,3 +1,7 @@
+# 👷‍♂️ UNDER CONSTRUCTION 👷‍♂️
+
+💁🏻‍♀️ This is work in progress... 💆🏻‍♂️
+
 # Hugo MVP ![Test](https://github.com/janraasch/hugo-mvp/workflows/CI/badge.svg?branch=master&event=push) [![Pay me][paypal-svg]][paypal-dot-me] [![Sponsor me][github-sponsors-svg]][github-sponsors]
 
 🏇 A [Hugo](https://gohugo.io/)-theme based on [MVP.css](https://andybrewer.github.io/mvp/).
