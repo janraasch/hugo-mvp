@@ -1,0 +1,6 @@
+<header>
+    {{- partial "header/nav.html" . -}}
+    {{ with .Params.header }}
+        {{- partial "header/content.html" . -}}
+    {{ end }}
+</header>

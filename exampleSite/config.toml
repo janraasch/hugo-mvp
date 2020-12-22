@@ -1,0 +1,20 @@
+baseURL = "https://example.com"
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
+
+defaultContentLanguage = "en"
+
+# The name of this wonderful theme ;-).
+theme = "hugo-mvp"
+
+# The "title" of your website
+title = "Builders Of The Future, Inc."
+
+# Render line-breaks in .md-files as line-breaks in HTML.
+# This is e.g. useful for rendering a multi-line address and
+# adding some vertical spaces on the page header.
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = true
